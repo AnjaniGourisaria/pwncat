@@ -1,7 +1,7 @@
 netifaces==0.10.9
 packaging==20.4
 prompt-toolkit==3.0.5
-pycryptodome==3.9.8
+pycryptodome==3.19.1
 requests==2.24.0
 rich==9.10.0
 python-rapidjson==0.9.1
